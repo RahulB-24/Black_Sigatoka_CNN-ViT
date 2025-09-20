@@ -53,7 +53,7 @@ Copy code
 
 The dataset used in this project is from Harvard Dataverse:
 
-[Banana Leaf Spot Disease Dataset (Black Sigatoka)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQUWXW)
+[The Nelson Mandela African Institution of Science and Technology Bananas dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQUWXW)
 
 Note: The dataset is not included in the repository due to size constraints. Download it and place the images in the folder structure as described above.
 
