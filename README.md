@@ -136,8 +136,7 @@ Enable long paths on Windows if you face path length issues:
 powershell
 Copy code
 git config --global core.longpaths true
+
 License
 This project is released under the MIT License.
 
-pgsql
-Copy code
