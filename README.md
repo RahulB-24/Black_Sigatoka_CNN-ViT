@@ -2,6 +2,8 @@
 
 This repository contains a CNN + ViT hybrid model for detecting Black Sigatoka disease in banana leaves. The project includes training, inference, and evaluation scripts.
 
+---
+
 ## Introduction
 
 Black Sigatoka, also known as Black Leaf Streak Disease, is a fungal disease caused by Mycosphaerella fijiensis that affects banana plants. It is one of the most destructive diseases of bananas worldwide, causing significant yield losses and reducing fruit quality. Early and accurate detection of Black Sigatoka is crucial for timely intervention and effective disease management.
@@ -19,6 +21,8 @@ Several approaches have been explored for automatic detection of Black Sigatoka 
 We propose a hybrid CNN + ViT model that combines the local feature extraction capabilities of CNNs with the global context modeling of Vision Transformers. This fusion allows the model to capture both fine-grained textures and overall leaf patterns effectively.
 
 Using this hybrid approach, we achieved a test accuracy of 99.91% on the Black Sigatoka dataset.
+
+---
 
 ## Project Structure
 
@@ -59,7 +63,7 @@ Note: The dataset is not included in the repository due to size constraints. Dow
 
 1. Clone this repository:
 
-bash
+```bash
 git clone https://github.com/YourUsername/Black_Sigatoka_CNN-ViT.git
 cd Black_Sigatoka_CNN-ViT
 Create a virtual environment and activate it:
@@ -132,7 +136,8 @@ Enable long paths on Windows if you face path length issues:
 powershell
 Copy code
 git config --global core.longpaths true
-
 License
 This project is released under the MIT License.
 
+pgsql
+Copy code
